@@ -47,5 +47,7 @@ int arraylist_link_get(struct arraylist_link *list,int value);
 
 void arraylist_link_lookup(struct arraylist_link *list);
 
+void arraylist_link_hahah(struct arraylist_link *list);
 
 #endif /* ARRAYLIST_LINK_H_ */
+
