@@ -14,6 +14,7 @@ int main(){
 	struct arraylist_link *list = arraylist_link_init();
 	arraylist_link_add(list,1);
 	arraylist_link_add(list,100);
+	arraylist_link_add(list,101);
 	arraylist_link_lookup(list);
 	arraylist_link_free(list);
 	return 0;
