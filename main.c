@@ -15,6 +15,7 @@ int main(){
 	arraylist_link_add(list,1);
 	arraylist_link_add(list,2);
 	arraylist_link_add(list,3);
+	arraylist_link_add(list,4);
 	arraylist_link_lookup(list);
 	arraylist_link_free(list);
 	return 0;
