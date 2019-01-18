@@ -12,7 +12,7 @@
 int main(){
 
 	struct arraylist_link *list = arraylist_link_init();
-	arraylist_link_add(list,1);
+	arraylist_link_add(list,111111111111111);
 	arraylist_link_add(list,2);
 	arraylist_link_add(list,999);
 	arraylist_link_add(list,10012131211);
