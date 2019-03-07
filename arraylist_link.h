@@ -4,7 +4,7 @@
  *  Created on: 2017Äê11ÔÂ3ÈÕ
  *      Author: admin
  */
-
+////////////////////////////
 #ifndef ARRAYLIST_LINK_H_
 #define ARRAYLIST_LINK_H_
 #define Bool int
