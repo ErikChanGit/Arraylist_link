@@ -16,7 +16,7 @@ int main(){
 	arraylist_link_add(list,2);
 	arraylist_link_add(list,999);
 	arraylist_link_add(list,10012131211);
-	arraylist_link_add(list,1112);
+	arraylist_link_add(list,0000000000000000);
 	arraylist_link_lookup(list);
 	arraylist_link_free(list);
 	return 0;
