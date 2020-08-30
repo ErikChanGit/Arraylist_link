@@ -2,7 +2,7 @@
  * arraylist_link.c
  *
  *  Created on: 2017Äê11ÔÂ3ÈÕ
- *      Author: admin
+ *      Author:erik
  */
 
 #include <stdio.h>
